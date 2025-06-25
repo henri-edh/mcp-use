@@ -55,7 +55,8 @@
             "group": "Development",
             "pages": [
               "development",
-              "development/telemetry"
+              "development/telemetry",
+              "development/observability"
             ]
           },
           {
@@ -79,6 +80,18 @@
               "api-reference/mcpagent",
               "api-reference/mcpclient",
               "api-reference/adapters"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Community",
+        "icon": "users",
+        "groups": [
+          {
+            "group": "Community",
+            "pages": [
+              "community/showcase"
             ]
           }
         ]
